@@ -15,5 +15,4 @@
   - Conhecimentos em Segurança em TI, Hardware e Software
   - Inglês: Nível Intermediário
   - Conhecimento Avançado em Salesforce 
-  - Conhecimento Avançado em Salesforce
 
