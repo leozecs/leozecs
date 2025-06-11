@@ -49,7 +49,7 @@ Sou Leonardo Rodrigues, Dev Backend focado em Java / Javascript / Python
 ### 🌐 Projetos em Destaque
 
 - [Meu Portfólio](https://leozecs.github.io): Site pessoal com informações sobre mim, minhas habilidades e projetos.
-- [Agenda de contatos](https://github.com/leozecs/agenda-python): Projeto universitário, utilizando Python e flask.
+- [Agenda de contatos](https://github.com/leozecs/Python_flask): Projeto universitário, utilizando Python e flask.
 - [App para agendamento](https://github.com/leozecs/barbershop-api): Projeto realizado durante bootcamp da DIO.
 
 ---
