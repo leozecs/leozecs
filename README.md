@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Leo 👋</h1>
+<h1 align="center">Opa! Eu sou o Leo</h1>
 
 <p align="center">
   <a href="https://github.com/leozecs">
