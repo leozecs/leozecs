@@ -57,7 +57,7 @@ Sou Leonardo Rodrigues, Dev Backend focado em Java / Javascript / Python
 ### 📫 Contato
 
 - 📍 Vinhedo, São Paulo, Brasil
-- 📧 [leozecs@gmail.com](mailto:leozecs@gmail.com)
+- 📧 [leocodes.dev@gmail.com](mailto:leocodes.dev@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/leocodesdev/)
 - 📷 [Instagram](https://instagram.com/leozecs)
 
