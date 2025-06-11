@@ -48,7 +48,7 @@ Sou Leonardo Rodrigues, Dev Backend focado em Java / Javascript / Python
 
 ### 🌐 Projetos em Destaque
 
-- [Meu Portfólio](https://github.com/leozecs/meu-portfolio): Site pessoal com informações sobre mim, minhas habilidades e projetos.
+- [Meu Portfólio](https://leozecs.github.io): Site pessoal com informações sobre mim, minhas habilidades e projetos.
 - [Análise de Sentimento com IA](https://github.com/leozecs/AnaliseSentimentoIA): Projeto de NLP com IA desenvolvido como desafio da DIO.
 - [Azure AI Search](https://github.com/leozecs/azure-ai-search): Demonstração prática do uso da ferramenta Azure AI Search.
 
