@@ -16,7 +16,7 @@
 
 ### 🚀 Sobre mim
 
-Sou Leonardo Rodrigues, um entusiasta de tecnologia e desenvolvimento web. Gosto de jogar futebol e estou sempre buscando aprender mais sobre programação!
+Sou Leonardo Rodrigues, Dev Backend focado em Java / Javascript / Python
 
 ---
 
